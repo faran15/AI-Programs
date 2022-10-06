@@ -20,3 +20,13 @@ def waterJugSolver(amt1, amt2):
        return False
 print("Steps: ")
 waterJugSolver(0, 0)
+OUTPUT:
+Steps: 
+0 0
+4 0
+4 3
+0 3
+3 0
+3 3
+4 2
+0 2

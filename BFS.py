@@ -21,3 +21,8 @@ def bfs(visited, graph, node): #function for BFS
 # Driver Code
 print("Following is the Breadth-First Search")
 bfs(visited, graph, '5')    # function calling
+
+OUTPUT:
+Following is the Breadth-First Search
+
+> 5 3 7 2 4 8 >

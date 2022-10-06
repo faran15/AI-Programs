@@ -16,3 +16,15 @@ def dfs(visited, graph, node):  #function for dfs
 # Driver Code
 print("Following is the Depth-First Search")
 dfs(visited, graph, '5')
+
+OUTPUT:
+
+Following is the Depth-First Search
+5
+3
+2
+4
+8
+7
+>
+

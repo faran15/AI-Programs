@@ -101,3 +101,54 @@ class TicTacToe:
 # starting the game
 tic_tac_toe = TicTacToe()
 tic_tac_toe.start()
+
+Sample Output :
+  
+Player O turn
+- - - 
+- - - 
+- - - 
+Enter row and column numbers to fix spot: 1 1
+Player X turn
+O - - 
+- - - 
+- - - 
+Enter row and column numbers to fix spot: 2 2
+Player O turn
+O - - 
+- X - 
+- - - 
+Enter row and column numbers to fix spot: 1 2
+Player X turn
+O O - 
+- X - 
+- - - 
+Enter row and column numbers to fix spot: 1 3 
+Player O turn
+O O X 
+- X - 
+- - - 
+Enter row and column numbers to fix spot: 3 1
+Player X turn
+O O X 
+- X - 
+O - - 
+Enter row and column numbers to fix spot: 2 1
+Player O turn
+O O X 
+X X - 
+O - - 
+Enter row and column numbers to fix spot: 2 3
+Player X turn
+O O X 
+X X O 
+O - - 
+Enter row and column numbers to fix spot: 3 2
+Player O turn
+O O X 
+X X O 
+O X - 
+Enter row and column numbers to fix spot: 3 3
+Match Draw!
+O O X 
+X X O 

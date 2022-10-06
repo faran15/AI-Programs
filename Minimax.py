@@ -19,3 +19,7 @@ scores = [3, 5, 2, 9]
 treeDepth = math.log(len(scores), 2)
 print("The optimal value is : ", end = "")
 print(minimax(0, 0, True, scores, treeDepth))
+
+output
+('The optimal value is : ',)
+12
